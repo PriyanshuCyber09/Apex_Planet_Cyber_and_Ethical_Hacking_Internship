@@ -1,2 +1,24 @@
-# Apex_Planet_Cyber_and_Ethical_Hacking_Internship
-This Repository is Created by Priyanshu Kumar for show casing the internship work done during the internship period in Apex Planet
+# ApexPlanet Cybersecurity Internship
+
+This repository contains my work completed during the ApexPlanet Cybersecurity Internship.
+
+## Task 1
+- Lab Environment Setup
+- Kali Linux
+- Metasploitable2
+- Linux Fundamentals
+- Networking Basics
+- Cryptography Basics
+- Tool Familiarization
+
+## Tools Used
+- Kali Linux
+- Metasploitable2
+- VirtualBox
+- Nmap
+- Wireshark
+- Burp Suite
+- Netcat
+
+## Author
+Priyanshu Kumar
